@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MiNotesNew.iml" filepath="$PROJECT_DIR$/.idea/modules/MiNotesNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MiNotesNew.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MiNotesNew.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MiNotesNew.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MiNotesNew.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MiNotesNew.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MiNotesNew.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MiNotesNew.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MiNotesNew.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
